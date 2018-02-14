@@ -1,23 +1,123 @@
 .topnav {
-    background-color: #121;
+   /* background-color: #7ec985;
     overflow: hidden;
     font-family: cursive;
+    margin: 20px;
+    margin-left: 15px;
+    width: 100px;
+    margin-top: 60px;
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2); */
+    border-top: 1px solid #eeeff2;
+    position: relative;
+    z-index: 501;
+    border-bottom: 1px solid #eeeff2;
+    overflow: hidden;
+    width: 500px;
+    margin-top: 60px;
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
+
+
 }
+
 .topnav a {
-    float: left;
-    color: #f2f2f2;
+   /* float: left;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 17px; */
+    background-color: #fff;
+    list-style-type: none;
+    text-align: center;
+    white-space: nowrap;
+    overflow-x: auto;
+
 }
 
 .topnav a:hover {
-    background-color: #c6ddd6;
-    color: black;
+    color: #067217;
+    font-size: 14px;
+    padding: 15px 0;
+    height: 5px;
+    background: transparent;
+
+    border-bottom: 1px solid transparent;
+    text-decoration: none;
+    outline: none;
 }
 
-.topnav a.active {
-    background-color: #16af2e;
+/*.topnav a.active {
+    background-color: #4c956e;
     color: white;
+}*/
+
+.menu{
+    box-sizing: border-box;
+    white-space: nowrap;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: -webkit-match-parent;
+    background-color: #fff;
+    list-style-type: none;
+    text-align: left;
+    overflow-x: auto;
+    border: 200px;
+
+}
+.about{
+    color: #2ee5a4;
+    border-bottom: 2px solid #2ee5a4;
+    font-size: 14px;
+    display: inline-block;
+    padding: 15px 10px;
+    height: 15px;
+}
+.project{
+    color: #2ee5a4;
+    border-bottom: 2px solid #2ee5a4;
+    font-size: 14px;
+    display: inline-block;
+    padding: 15px 10px;
+    height: 15px;
+}
+.contact{
+    color: #2ee5a4;
+    border-bottom: 2px solid #2ee5a4;
+    font-size: 14px;
+    display: inline-block;
+    padding: 15px 10px;
+    height: 15px;
+}
+.study{
+    color: #2ee5a4;
+    border-bottom: 2px solid #2ee5a4;
+    font-size: 14px;
+    display: inline-block;
+    padding: 15px 10px;
+    height: 15px;
+    cursor: pointer;
+}
+
+
+body{
+    font-family: "Helvetica Neue", HelveticaNeue, Helvetica, TeXGyreHeros, FreeSans, "Nimbus Sans L", "Liberation Sans", Arial, sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+#imgProfie{
+    width: 80px;
+    height: 100px;
+
+    object-fit: cover;
+    marker-offset: ;
+
+}
+
+h1{
+    color: #0f84ff;
+    font-style: normal;
+    font-family: OpenSans;
 }
