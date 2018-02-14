@@ -9,14 +9,14 @@
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2); */
     border-top: 1px solid #eeeff2;
     position: relative;
-    z-index: 501;
     border-bottom: 1px solid #eeeff2;
     overflow: hidden;
-    width: 500px;
     margin-top: 60px;
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
-
-
+    margin-left: 200px;
+    margin-bottom: 60px;
+    margin-right: 200px;
+    background-color: white;
 }
 
 .topnav a {
@@ -31,7 +31,6 @@
     text-align: center;
     white-space: nowrap;
     overflow-x: auto;
-
 }
 
 .topnav a:hover {
@@ -42,13 +41,18 @@
     background: transparent;
     border-bottom: 1px solid transparent;
     text-decoration: none;
-    outline: none;
 }
 
 /*.topnav a.active {
     background-color: #4c956e;
     color: white;
 }*/
+
+a:link, a:visited{
+    text-align: center;
+    text-decoration: none;
+    color:#2ee5a4;
+}
 
 .menu{
     box-sizing: border-box;
@@ -59,8 +63,9 @@
     background-color: #fff;
     list-style-type: none;
     text-align: left;
-    overflow-x: auto;
+    overflow-x: visible;
     border: 200px;
+    align-content: center;
 
 }
 .about{
@@ -102,21 +107,31 @@ body{
     font-family: "Helvetica Neue", HelveticaNeue, Helvetica, TeXGyreHeros, FreeSans, "Nimbus Sans L", "Liberation Sans", Arial, sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+    background-color: #f9f3ff;
 }
-
-
-
-#imgProfie{
-    width: 80px;
-    height: 100px;
-
-    object-fit: cover;
-    marker-offset: ;
-
+.profile-box {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 80px;
 }
 
 h1{
-    color: #0f84ff;
+    color: #577483;
     font-style: normal;
     font-family: OpenSans;
+    margin-left: 500px;
+}
+p{
+    font-family: OpenSans;
+    color: #486372;
+    margin-top: 30px;
+    margin-left: 600px;
 }
