@@ -3,6 +3,13 @@
     padding: 20px;
     text-align: center;
 }
+
+/*Use a media query to add a break point at 800px:*/
+@media (max-width:800px) {
+    .description, .profile-box, .menu {
+        width:100%;/*The width is 100%, when the viewport is 800px or smaller*/
+    }
+}
 .topnav {
    /* background-color: #7ec985;
     overflow: hidden;
