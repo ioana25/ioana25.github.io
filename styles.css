@@ -10,6 +10,12 @@
         width:100%;/*The width is 100%, when the viewport is 800px or smaller*/
     }
 }
+.description::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 .topnav {
    /* background-color: #7ec985;
     overflow: hidden;
@@ -263,4 +269,7 @@ p{
     margin-top: 20px;
     margin-right: 30px;
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
+}
+.page {
+    color: #093263;
 }
