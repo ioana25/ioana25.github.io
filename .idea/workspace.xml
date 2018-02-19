@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -276,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518892191362</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="meta tags">
+      <created>1519072867799</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1519072867799</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59326000" />
+    <option name="totallyTimeSpent" value="59352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -347,7 +352,8 @@
     <MESSAGE value="buttons functions on click" />
     <MESSAGE value="buttons functions on click - reviewed" />
     <MESSAGE value="responvie" />
-    <option name="LAST_COMMIT_MESSAGE" value="responvie" />
+    <MESSAGE value="meta tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="meta tags" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
