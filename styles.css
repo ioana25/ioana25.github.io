@@ -227,7 +227,7 @@ p{
 #myBtn:hover {
     background-color: #7ec985;
 }
-.button {
+#myStudiesDiv {
     float: right;
     width: 50%;
     padding: 50px;
@@ -237,36 +237,36 @@ p{
     margin-right: 30px;
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.6);
 }
-/*#myProjectsDiv {
+#myProjectsDiv {
     float: right;
     width: 50%;
     padding: 50px;
     text-align: center;
-    background-color: #d0e6ae;
+/*    background-color: #d0e6ae;*/
     margin-top: 20px;
     margin-right: 30px;
-    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.6);
 }
 #myHobbysDiv {
     float: right;
     width: 50%;
     padding: 50px;
     text-align: center;
-    background-color: #e6c1c7;
+/*    background-color: #e6c1c7;*/
     margin-top: 20px;
     margin-right: 30px;
-    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.6);
 }
 #myContactDiv {
     float: right;
     width: 50%;
     padding: 50px;
     text-align: center;
-    background-color: #e0e6c4;
+/*    background-color: #e0e6c4;*/
     margin-top: 20px;
     margin-right: 30px;
-    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
-}*/
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.6);
+}
 .page {
     color: #093263;
 }
