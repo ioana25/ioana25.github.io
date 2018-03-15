@@ -38,10 +38,12 @@ h4 {
 }
 p {
     margin: 0 0 1em 0;
+    color: #2b0306;
 }
 
 a{
     color: #138a33;
+    text-decoration: none;
 }
 a:visited {
     color: #00dc82;
@@ -49,11 +51,187 @@ a:visited {
 
 /*Header*/
 header {
-    height: 430px;
+    height: 230px;
+    background: url(feathers-2561511_1280.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
     position: relative;
+}
+header a.logo {
+    z-index: 1;
+    position: absolute;
+    display: block;
+    width: 200px;
+    height: 100px;
+    background: url(ioana-logo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+    top: 5px;
+    left: 25px;
+}
+header a.logo span {
+    display: none;
+}
+
+/*Sections*/
+section {
+    padding: 0 30px;
+}
+section::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/*Section-Main*/
+section.card {
+    margin: 50px;
+    padding: 15px;
+    position: relative;/*or fixed to stay there*/
+    width: 300px;
+    height: 230px;
+}
+section.card .profile{
+    float: left;
+    padding: 15px;
+    margin: 10px;
+}
+section.card .profile .words{
+    font-style: italic;
+}
+section.card .profile img {
+    background-image: url(Snapseed1.jpg);
+    background-size: 100%;
+    background-position: center;
+/*    vertical-align: middle;*/
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+}
+section.card .profile h2{
+    float: top;
+    text-align: center;
+}
+
+section.main {
+    padding: 15px;
+    margin: 20px;
+/*    width: 800px;
+    height: 100px;*/
+    background-color: #378a93;
+    float: right;
+    margin-right: 30px;
 }
 
 
+/*Section-Menu*/
+section.menu {
+    float: right;
+    width: 900px;
+    background-color: #378a93;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #e9e3ff;
+}
+section.menu .study {
+    padding: 0 20px 0 515px;
+    background: url(books-2596809_1280.jpg) no-repeat 0 5px;
+    min-height: 220px/*if we do not have the height, we input a min height*/
+}
+section.menu .projects {
+    padding: 0 20px 0 515px;
+    background: url(plant-3117525_640.jpg) no-repeat 0 5px;
+    background-size: 450px;
+    float: left;
+    min-height: 300px
+}
+section.menu .hobby {
+    padding: 0 20px 0 515px;
+    background: url(IMG_3437.JPG) no-repeat 0 5px;
+    background-size: 450px;
+    float: left;
+    min-height: 300px
+}
+section.menu .contact {
+    padding: 0 20px 0 515px;
+    background: url(laptop-1478822_640.jpg) no-repeat 0 5px;
+    background-size: 450px;
+    float: left;
+    min-height: 300px
+}
 
 
+/*Button*/
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #025520;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+}
+#myBtn:hover {
+    background-color: #7ec985;
+}
 
+
+/*Navigation menu*/
+nav {
+    background-color: rgba(0,0,0,.45);
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 50px 0 0 0;
+    width: 100%;
+    /*for the title of the page to be in front we use the z-index from the header*/
+}
+nav::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li:hover{
+    background-color: #0f2b13;
+}
+
+nav ul li a {
+    display: inline-block;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    /*This will remove the underlines*/
+    width: 125px;
+    position: relative;
+}
+
+/*next is for the color of nav menu*/
+nav ul li a:visited {
+    color: #fff;
+}
+nav ul li a:hover {
+    background-color: #0c6d2d;
+}
+nav > ul {
+    padding-left: 200px;
+}
+nav > ul > li {
+    float: left;
+}
+nav > ul >li > a {
+    width: auto;
+    padding: 10px 20px 15px 20px;
+}
