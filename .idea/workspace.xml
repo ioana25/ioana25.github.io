@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Ioana-cv.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/IoanaCV.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/script.js" afterPath="$PROJECT_DIR$/script.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="416">
+              <caret line="75" column="52" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -221,7 +218,7 @@
       <workItem from="1520878636744" duration="16130000" />
       <workItem from="1521016827749" duration="10278000" />
       <workItem from="1521099541249" duration="11989000" />
-      <workItem from="1521186253605" duration="5353000" />
+      <workItem from="1521186253605" duration="5956000" />
     </task>
     <task id="LOCAL-00001" summary="add functionality">
       <created>1518557971644</created>
@@ -419,11 +416,25 @@
       <option name="project" value="LOCAL" />
       <updated>1521193569153</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="16.03.18&#10;add Cv">
+      <created>1521194644373</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1521194644373</updated>
+    </task>
+    <task id="LOCAL-00030" summary="16.03.18&#10;add Cv+menu">
+      <created>1521194985105</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1521194985105</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142030000" />
+    <option name="totallyTimeSpent" value="142633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -469,7 +480,8 @@
     <MESSAGE value="13.03.18&#10;html structure changed&#10;css (text and header)" />
     <MESSAGE value="13.03.18&#10;html structure changed&#10;css (text and header)&#10;&#10;15.03.18&#10;css - sections (images, profile box, colors)&#10;    - nav (moved on top)&#10;    - logo" />
     <MESSAGE value="16.03.18&#10;add Cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="16.03.18&#10;add Cv" />
+    <MESSAGE value="16.03.18&#10;add Cv+menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.03.18&#10;add Cv+menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -824,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="416">
+          <caret line="75" column="52" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
           <folding />
         </state>
       </provider>
