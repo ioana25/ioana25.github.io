@@ -79,11 +79,13 @@ header a.logo span {
 section {
     padding: 0 30px;
 }
+/*
 section::after {
     content: '';
     display: block;
     clear: both;
 }
+*/
 
 /*Section-Main*/
 section.card {
@@ -93,7 +95,15 @@ section.card {
     width: 300px;
     height: 230px;
 }
-section.card .profile{
+section.card .profile img {
+    background-size: 100%;
+    background-position: center;
+    /*    vertical-align: middle;*/
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+}
+/*section.card .profile {
     float: left;
     padding: 15px;
     margin: 10px;
@@ -101,35 +111,29 @@ section.card .profile{
 section.card .profile .words{
     font-style: italic;
 }
-section.card .profile img {
-    background-size: 100%;
-    background-position: center;
-/*    vertical-align: middle;*/
-    width: 110px;
-    height: 110px;
-    border-radius: 50%;
-}
+
 section.card .profile h2{
     float: top;
     text-align: center;
-}
+}*/
 
 section.main {
     padding: 15px;
     margin: 20px;
 /*    width: 800px;
     height: 100px;*/
-    background-color: #e0e6c4;
+    background-color: #dbedf4;
     float: right;
     margin-right: 30px;
+    position: relative;
 }
 
-
-/*Section-Menu*/
+/*
+!*Section-Menu*!
 section.menu {
     float: right;
     width: 900px;
-    background-color: #2d76c4;
+    background-color: #dbedf4;
     padding-top: 30px;
     padding-bottom: 30px;
     color: #e9e3ff;
@@ -137,7 +141,7 @@ section.menu {
 section.menu .study {
     padding: 0 20px 0 515px;
     background: url(books-2596809_1280.jpg) no-repeat 0 5px;
-    min-height: 220px/*if we do not have the height, we input a min height*/
+    min-height: 220px!*if we do not have the height, we input a min height*!
 }
 section.menu .projects {
     padding: 0 20px 0 515px;
@@ -159,7 +163,7 @@ section.menu .contact {
     background-size: 450px;
     float: left;
     min-height: 300px
-}
+}*/
 
 
 /*Button*/
@@ -234,6 +238,18 @@ nav > ul >li > a {
     width: auto;
     padding: 10px 20px 15px 20px;
 }
+
+/*Footer*/
+footer {
+    height: 230px;
+    font-size: .8em;
+    margin: 20px;
+    padding: 10px;
+    background-color:  	#dddddd;
+    color: #767477;
+}
+
+
 
 .progres {
     margin-left: 300px;
