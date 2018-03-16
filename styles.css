@@ -102,7 +102,6 @@ section.card .profile .words{
     font-style: italic;
 }
 section.card .profile img {
-    background-image: url(Snapseed1.jpg);
     background-size: 100%;
     background-position: center;
 /*    vertical-align: middle;*/
@@ -234,4 +233,12 @@ nav > ul > li {
 nav > ul >li > a {
     width: auto;
     padding: 10px 20px 15px 20px;
+}
+
+.progres {
+    margin-left: 300px;
+    height: 100px;
+    width: 300px;
+    top: 0;
+    bottom: 0;
 }
