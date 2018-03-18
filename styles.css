@@ -78,7 +78,9 @@ header a.logo span {
 /*Sections*/
 section {
     padding: 0 30px;
+    display: flex;
 }
+
 /*
 section::after {
     content: '';
@@ -89,81 +91,51 @@ section::after {
 
 /*Section-Main*/
 section.card {
-    margin: 50px;
+    margin: 10px;
     padding: 15px;
     position: relative;/*or fixed to stay there*/
-    width: 300px;
-    height: 230px;
-}
-section.card .profile img {
-    background-size: 100%;
-    background-position: center;
-    /*    vertical-align: middle;*/
-    width: 110px;
-    height: 110px;
-    border-radius: 50%;
-}
-/*section.card .profile {
+    width: 250px;
+    height: 270px;
+    background-color: #dbe8ea;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
     float: left;
-    padding: 15px;
-    margin: 10px;
+}
+
+section.card .avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+section.card .profile {
+    padding: 2px 16px;
+}
+section.card .profile h2{
+    text-align: center;
+    padding: 5px;
 }
 section.card .profile .words{
     font-style: italic;
 }
 
-section.card .profile h2{
-    float: top;
-    text-align: center;
-}*/
 
+/*Section Main*/
 section.main {
-    padding: 15px;
+    padding: 20px;
     margin: 20px;
-/*    width: 800px;
+/*  width: 800px;
     height: 100px;*/
-    background-color: #dbedf4;
-    float: right;
-    margin-right: 30px;
-    position: relative;
+    background-color: #bbecf6;
+    width: 860px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+/*  flex: 50%;*/
 }
-
-/*
-!*Section-Menu*!
-section.menu {
-    float: right;
-    width: 900px;
-    background-color: #dbedf4;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    color: #e9e3ff;
+section.content {
+    padding: 10px;
 }
-section.menu .study {
-    padding: 0 20px 0 515px;
-    background: url(books-2596809_1280.jpg) no-repeat 0 5px;
-    min-height: 220px!*if we do not have the height, we input a min height*!
-}
-section.menu .projects {
-    padding: 0 20px 0 515px;
-    background: url(plant-3117525_640.jpg) no-repeat 0 5px;
-    background-size: 450px;
-    float: left;
-    min-height: 300px
-}
-section.menu .hobby {
-    padding: 0 20px 0 515px;
-    background: url(IMG_3437.JPG) no-repeat 0 5px;
-    background-size: 450px;
-    float: left;
-    min-height: 300px
-}
-section.menu .contact {
-    padding: 0 20px 0 515px;
-    background: url(laptop-1478822_640.jpg) no-repeat 0 5px;
-    background-size: 450px;
-    float: left;
-    min-height: 300px
-}*/
 
 
 /*Button*/
@@ -239,14 +211,17 @@ nav > ul >li > a {
     padding: 10px 20px 15px 20px;
 }
 
+
 /*Footer*/
 footer {
-    height: 230px;
+    height: 60px;
     font-size: .8em;
-    margin: 20px;
-    padding: 10px;
-    background-color:  	#dddddd;
+    padding: 30px;
+    background-color: #dbe8ea;
     color: #767477;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
