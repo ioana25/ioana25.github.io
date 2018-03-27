@@ -50,6 +50,10 @@ a:visited {
     color: #205c33;
 }
 
+pre {
+    font: inherit;
+}
+
 
 /*Header*/
 header {
@@ -98,7 +102,7 @@ section.card {
     height: 270px;
     border-radius: 15%;
     background-color: #dbe8ea;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     float: left;
 }
 
@@ -137,7 +141,7 @@ section.main {
 section.main .content {
     padding: 10px;
     background-color: #bbecf6;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
 
 section.main .resume {
@@ -155,7 +159,7 @@ section.main .hobby {
     display: none;
     position: fixed;
     bottom: 20px;
-    right: 80px;
+    right: 85px;
     z-index: 99;
     font-size: 18px;
     border: none;
@@ -240,10 +244,21 @@ footer {
 }
 
 section.projectI {
+    margin-top: 10px;
     background-color: #b3eec9;
     padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
-
+section.projectII {
+    margin-top: 10px;
+    background-color: #b3eec9;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+}
 
 .progress {
     text-align: center;
