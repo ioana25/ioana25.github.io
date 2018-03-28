@@ -21,3 +21,15 @@ function myFunction() {
         x.className = "topnav";
     }
 }
+
+/*
+document.getElementById("read-more-button").addEventListener("click", displayContent);
+
+function displayContent() {
+    /!*document.getElementById("read-more")innerHTML = "Read More"*!/
+    var i = document.getElementById("read-more");
+    if (i.innerHTML === 'read-more') {
+
+    }
+}
+*/
