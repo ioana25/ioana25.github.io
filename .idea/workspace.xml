@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/google153745169284a615.html" />
+    <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,30 +21,30 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="280">
+              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
               <folding>
-                <element signature="e#3922#3928#0" expanded="true" />
+                <element signature="e#3903#3909#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="348">
+              <caret line="101" column="13" lean-forward="true" selection-start-line="98" selection-start-column="4" selection-end-line="101" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4590">
-              <caret line="270" column="2" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="280" selection-end-column="3" />
+            <state relative-caret-position="136">
+              <caret line="239" column="24" lean-forward="false" selection-start-line="239" selection-start-column="24" selection-end-line="239" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -99,10 +100,10 @@
         <option value="$PROJECT_DIR$/modify.html" />
         <option value="$PROJECT_DIR$/old-js.js" />
         <option value="$PROJECT_DIR$/old css.css" />
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/script.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles.css" />
       </list>
     </option>
   </component>
@@ -113,7 +114,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="585" />
+    <option name="x" value="205" />
     <option name="width" value="788" />
     <option name="height" value="735" />
   </component>
@@ -216,7 +217,7 @@
       <workItem from="1522244822493" duration="8405000" />
       <workItem from="1522306754036" duration="357000" />
       <workItem from="1522584742500" duration="22000" />
-      <workItem from="1522584834976" duration="1435000" />
+      <workItem from="1522584834976" duration="2788000" />
     </task>
     <task id="LOCAL-00001" summary="add functionality">
       <created>1518557971644</created>
@@ -533,17 +534,24 @@
       <option name="project" value="LOCAL" />
       <updated>1522586216758</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters">
+      <created>1522596336897</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1522596336897</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215306000" />
+    <option name="totallyTimeSpent" value="216659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21522693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13762811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -593,7 +601,8 @@
     <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;17.03.18&#10;- add project2 + css" />
     <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive" />
     <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title" />
+    <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters" />
+    <option name="LAST_COMMIT_MESSAGE" value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -605,7 +614,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -676,7 +685,7 @@
         <state relative-caret-position="280">
           <caret line="61" column="45" lean-forward="false" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -686,7 +695,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -712,7 +721,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -738,7 +747,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -764,7 +773,7 @@
         <state relative-caret-position="680">
           <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -790,7 +799,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -816,7 +825,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -826,7 +835,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
+            <element signature="e#3903#3909#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -926,29 +935,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4590">
-          <caret line="270" column="2" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="280" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#3922#3928#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -962,8 +953,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="348">
+          <caret line="101" column="13" lean-forward="true" selection-start-line="98" selection-start-column="4" selection-end-line="101" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding>
+            <element signature="e#3903#3909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="239" column="24" lean-forward="false" selection-start-line="239" selection-start-column="24" selection-end-line="239" selection-end-column="24" />
           <folding />
         </state>
       </provider>
