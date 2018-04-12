@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/IoanaEnescu.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/IoanaEnescu.png" afterPath="$PROJECT_DIR$/IoanaEnescu.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="238">
+              <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="303" column="14" lean-forward="false" selection-start-line="303" selection-start-column="14" selection-end-line="303" selection-end-column="14" />
+            <state relative-caret-position="260">
+              <caret line="290" column="26" lean-forward="true" selection-start-line="290" selection-start-column="26" selection-end-line="290" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -130,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -142,7 +143,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,7 +216,8 @@
       <workItem from="1522584742500" duration="22000" />
       <workItem from="1522584834976" duration="3396000" />
       <workItem from="1523530162802" duration="4994000" />
-      <workItem from="1523543017681" duration="16000" />
+      <workItem from="1523543017681" duration="50000" />
+      <workItem from="1523555911440" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="add functionality">
       <created>1518557971644</created>
@@ -554,14 +555,22 @@
       <option name="project" value="LOCAL" />
       <updated>1523535400632</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page&#10;&#10;12.04.18&#10;- topnav position responsive&#10;- avatar change">
+      <created>1523543039886</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1523543039902</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222277000" />
+    <option name="totallyTimeSpent" value="222420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -946,18 +955,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="260">
+          <caret line="290" column="26" lean-forward="true" selection-start-line="290" selection-start-column="26" selection-end-line="290" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="303" column="14" lean-forward="false" selection-start-line="303" selection-start-column="14" selection-end-line="303" selection-end-column="14" />
+        <state relative-caret-position="238">
+          <caret line="46" column="42" lean-forward="true" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
           <folding />
         </state>
       </provider>
