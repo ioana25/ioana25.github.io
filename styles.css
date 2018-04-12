@@ -302,7 +302,14 @@ section.projectII li {
 
 @media screen and (max-width: 600px) {
     nav > ul {
-        padding-left: 80%;
+        padding-left: 150px;
+        margin-top: 15px;
+    }
+    nav > ul > li {
+        float: none;
+    }
+    nav ul li:hover{
+        background-color: unset;
     }
     header a.logo {
         left: 10px;

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page">
+    <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/avatar@1x.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/IMG_3437.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/books-2596809_1280.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/laptop-1478822_640.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
       <change beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,14 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-              <folding>
-                <element signature="e#3903#3909#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -33,18 +36,18 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="101" column="13" lean-forward="true" selection-start-line="98" selection-start-column="4" selection-end-line="101" selection-end-column="13" />
+            <state relative-caret-position="-324">
+              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="239" column="24" lean-forward="false" selection-start-line="239" selection-start-column="24" selection-end-line="239" selection-end-column="24" />
+            <state relative-caret-position="2835">
+              <caret line="335" column="17" lean-forward="false" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -101,9 +104,9 @@
         <option value="$PROJECT_DIR$/old-js.js" />
         <option value="$PROJECT_DIR$/old css.css" />
         <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/styles.css" />
       </list>
     </option>
   </component>
@@ -217,7 +220,8 @@
       <workItem from="1522244822493" duration="8405000" />
       <workItem from="1522306754036" duration="357000" />
       <workItem from="1522584742500" duration="22000" />
-      <workItem from="1522584834976" duration="2788000" />
+      <workItem from="1522584834976" duration="3396000" />
+      <workItem from="1523530162802" duration="4539000" />
     </task>
     <task id="LOCAL-00001" summary="add functionality">
       <created>1518557971644</created>
@@ -541,17 +545,24 @@
       <option name="project" value="LOCAL" />
       <updated>1522596336897</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page">
+      <created>1522602608838</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1522602608838</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216659000" />
+    <option name="totallyTimeSpent" value="221806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13762811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -577,7 +588,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add functionality" />
     <MESSAGE value="nav. bar" />
     <MESSAGE value="navigation bar" />
     <MESSAGE value="background-color &amp; picture(avatar)" />
@@ -602,7 +612,8 @@
     <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive" />
     <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title" />
     <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters" />
+    <MESSAGE value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page" />
+    <option name="LAST_COMMIT_MESSAGE" value="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -613,9 +624,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -684,9 +693,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="61" column="45" lean-forward="false" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,9 +701,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -720,9 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -746,9 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -772,9 +773,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,9 +797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -824,9 +821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -834,9 +829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -947,32 +940,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="101" column="13" lean-forward="true" selection-start-line="98" selection-start-column="4" selection-end-line="101" selection-end-column="13" />
+        <state relative-caret-position="-324">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="335" column="17" lean-forward="false" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-          <folding>
-            <element signature="e#3903#3909#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="239" column="24" lean-forward="false" selection-start-line="239" selection-start-column="24" selection-end-line="239" selection-end-column="24" />
+        <state relative-caret-position="76">
+          <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding />
         </state>
       </provider>
