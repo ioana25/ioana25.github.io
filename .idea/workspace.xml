@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53de5e08-4ea5-40e9-9467-3152c21a43d7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -218,14 +217,7 @@
       <workItem from="1523530162802" duration="4994000" />
       <workItem from="1523543017681" duration="50000" />
       <workItem from="1523555911440" duration="367000" />
-      <workItem from="1523612512452" duration="3170000" />
-    </task>
-    <task id="LOCAL-00003" summary="nav. bar">
-      <created>1518612204872</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1518612204872</updated>
+      <workItem from="1523612512452" duration="3182000" />
     </task>
     <task id="LOCAL-00004" summary="navigation bar">
       <created>1518624670465</created>
@@ -563,11 +555,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523615657764</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="26.03.18 &#10;- top nav responsive&#10;- responsive for 600px&#10;- responsive for 375px&#10;&#10;27.03.18&#10;- add project2 + css&#10;&#10;28.03.18&#10;- reviewed: the portfolio page - responsive&#10;&#10;1.04.18&#10;- meta description and title&#10;- google webmasters&#10;- portfolio page - width (same as the page) for the sections&#10;- repair position of the footer - first page&#10;&#10;12.04.18&#10;- topnav position responsive&#10;- avatar change&#10;&#10;13.04.18&#10;- background-colors changed&#10;- font-family changed">
+      <created>1523615690398</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1523615690398</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225848000" />
+    <option name="totallyTimeSpent" value="225860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
