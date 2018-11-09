@@ -79,9 +79,9 @@ header a.logo span {
 }
 
 /*Sections*/
-section {
+/*section {
     display: flex;
-}
+}*/
 
 /*
 section::after {
@@ -119,17 +119,17 @@ section.me .profile h2{
     color: #fff;
 }
 
-section.card {
+/*section.card {
     margin-top: 10px;
     position: relative;/*or fixed to stay there*/
     /*width: 33.333%;*/
-    height: 270px;
+    /*height: 270px;
     border-radius: 10%;
     background-color: #dddddd;
     /*#dbe8ea*/
-    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+    /*box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     float: left;
-}
+}*/
 
 /*section.card .avatar {
     display: block;
@@ -157,21 +157,30 @@ section.card .profile .words{
 
 /*Section Main*/
 section.main {
-    /*margin-top: 3px;*/
+    margin-top: 3%;
     text-align: center;
+    padding: 5%;
+    /*-webkit-animation-timing-function: ease;
+    -webkit-animation: mymove 5s infinite;*/
 /*  width: 800px;
     height: 100px;*/
     /*width: 66.666%;*/
 /*  flex: 50%;*/
 }
 section.main .content {
-    padding: 10px;
+    padding: 5%;
     /*background-color: #d8f0e8;*/
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+}
+section.main h2 {
+    line-height: 60px;
+    font-size: 40px;
 }
 
 section.main .resume {
     margin: 10px;
+    padding: 5%;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
 section.main .study {
     margin: 10px;
@@ -275,15 +284,15 @@ footer {
 }
 
 section.projectI {
-    margin-top: 10px;
+    margin: 5%;
     /*background-color: #d8f0e8;*/
-    padding: 20px;
+    padding: 5%;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
 section.projectII {
-    margin-top: 10px;
+    margin: 5%;
+    padding: 5%;
     /*background-color: #d8f0e8;*/
-    padding: 20px;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     position: relative;
 }
@@ -381,13 +390,13 @@ section.projectII li {
 }
 
 @media screen and (max-width: 375px) {
-    section.card .words {
+    /*section.card .words {
         text-align: center;
         font-size: .9em;
-    }
+    }*/
     #myBtn {
-        font-size: 10px;
-        right: 10px;
+        font-size: 15px;
+        right: 15px;
     }
     p {
         font-size: .8em;
