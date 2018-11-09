@@ -10,7 +10,7 @@ body {
     padding: 0;
 }
 #page {
-    max-width: 1200px;
+    /*max-width: 1200px;*/
     margin: 0 auto;
     position: relative;
 }
@@ -54,11 +54,11 @@ a:visited {
 
 /*Header*/
 header {
-    height: 230px;
-    background: url(feathers-2561511_1280.jpg);
+    height: 500px;
+    background: url(notepad-3316997_1920.jpg);
     background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: bottom;
+    background-position-x: right;
+    background-position-y: center;
     position: relative;
 }
 header a.logo {
@@ -72,7 +72,7 @@ header a.logo {
     background-size: contain;
     background-color: transparent;
     top: 5px;
-    left: 25px;
+    left: 3%;
 }
 header a.logo span {
     display: none;
@@ -92,10 +92,37 @@ section::after {
 */
 
 /*Section-Main*/
+section.me {
+    /*margin-top: 10px;*/
+    position: relative;/*or fixed to stay there*/
+    /*width: 33.333%;*/
+    /*height: 270px;*/
+    /*#dbe8ea*/
+    margin-left: 10px;
+    float: left;
+}
+section.me .avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+section.me .profile {
+    padding: 2px 14px;
+}
+section.me .profile h2{
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+
 section.card {
     margin-top: 10px;
     position: relative;/*or fixed to stay there*/
-    width: 33.333%;
+    /*width: 33.333%;*/
     height: 270px;
     border-radius: 10%;
     background-color: #dddddd;
@@ -104,7 +131,7 @@ section.card {
     float: left;
 }
 
-section.card .avatar {
+/*section.card .avatar {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -126,7 +153,7 @@ section.card .profile .words{
     font-style: italic;
     text-align: center;
 }
-
+*/
 
 /*Section Main*/
 section.main {
@@ -134,12 +161,12 @@ section.main {
     text-align: center;
 /*  width: 800px;
     height: 100px;*/
-    width: 66.666%;
+    /*width: 66.666%;*/
 /*  flex: 50%;*/
 }
 section.main .content {
     padding: 10px;
-    background-color: #d8f0e8;
+    /*background-color: #d8f0e8;*/
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
 
@@ -180,8 +207,9 @@ nav {
     position: absolute;
     top: 0;
     left: 0;
-    padding: 50px 0 0 0;
-    width: 100%;
+    padding: 150px 50px 50px 50px;
+    /*width: 200%;*/
+    height: 300px;
     /*for the title of the page to be in front we use the z-index from the header*/
 }
 nav::after {
@@ -190,22 +218,26 @@ nav::after {
     clear: both;
 }
 nav ul {
-    list-style: none;
+    list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 200px;
+    height: 100%;
 }
 nav ul li:hover{
     background-color: #0d5a4c;
 }
 
 nav ul li a {
-    display: inline-block;
+    /*display: inline-block;*/
+    display: block;
     color: #fff;
-    padding: 10px 20px;
+    padding: 10px 50px;
     text-decoration: none;
+    text-align: center;
     /*This will remove the underlines*/
-    width: 125px;
-    position: relative;
+    /*width: 125px;*/
+    /*position: relative;*/
 }
 
 /*next is for the color of nav menu*/
@@ -215,16 +247,16 @@ nav ul li a:visited {
 nav ul li a:hover {
     background-color: #0d5a4c;
 }
-nav > ul {
+/*nav > ul {
     padding-left: 200px;
-}
+}*/
 nav > ul > li {
     float: left;
 }
-nav > ul >li > a {
+/*nav > ul >li > a {
     width: auto;
     padding: 10px 20px 15px 20px;
-}
+}*/
 .topnav .icon {
     display: none;
 }
@@ -244,13 +276,13 @@ footer {
 
 section.projectI {
     margin-top: 10px;
-    background-color: #d8f0e8;
+    /*background-color: #d8f0e8;*/
     padding: 20px;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
 }
 section.projectII {
     margin-top: 10px;
-    background-color: #d8f0e8;
+    /*background-color: #d8f0e8;*/
     padding: 20px;
     box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
     position: relative;
